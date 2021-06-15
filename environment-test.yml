@@ -1,4 +1,4 @@
-name: foyer-binder
+name: foyer-tutorials
 
 channels:
   - conda-forge
@@ -21,3 +21,5 @@ dependencies:
   - lxml
   - foyer
   - mbuild
+  - pytest
+  - nbval
